@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello World, I'm Dan!👋
  🌱 I’m BSIT student from PUPSTB<br/><br> 👯 I’m looking for IT community to collaborate with<br/><br> 🤔 I’m currectly learning Multimedia & Web Development<br/><br> 💬 A future game developer<br/><br> 📫 Reach me using email: danlawrencebarretto1@gmail.com<br/>
 
 # 💻 Tech Stack:
