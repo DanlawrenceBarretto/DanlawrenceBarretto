@@ -4,7 +4,6 @@
    Aspiring Game Developer • Web Development • Collaborator • AI Enthusiast
 </p>
 
----
 
 <div align="center">
 
@@ -12,7 +11,6 @@
 
 </div>
 
----
 
 ## 💻 My Language & Tools  
 
@@ -34,7 +32,6 @@
 
 </div>
 
----
 
 ## 🌐 Connect with Me  
 
@@ -44,6 +41,5 @@
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge-square&logo=instagram&logoColor=white"/></a>
 </div>
 
----
 
 <p align="center">✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀</p>
