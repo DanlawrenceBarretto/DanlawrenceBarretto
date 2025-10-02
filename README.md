@@ -5,7 +5,7 @@
 </p>
 <h4 align="center">
   I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites.  
-  I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skills and knowledge.
+  I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skillsets and knowledge.
 </h4>
 
 <br>
@@ -54,6 +54,6 @@
 <p align="center">✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀</p>
 
 <div align="center">
-  <img src="https://github.com/dlbarretto/dlbarretto/blob/3aaa78131218e986e627de735467a470c5cdf46c/FOR%20MY%20LOVE%20(1).gif"/>
+  <img src="https://github.com/dlbarretto/dlbarretto/blob/3aaa78131218e986e627de735467a470c5cdf46c/FOR%20MY%20LOVE%20(1).gif" height="525px" wdith="1000px"/>
 </div>
 
