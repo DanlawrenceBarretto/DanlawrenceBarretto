@@ -1,5 +1,4 @@
 <h1 align="center"><i>Hello World, I'm Dan! 👋</i></h1>
-
 <p align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/9ca53c2aac15b7a3965f44f3513d680b91cbf72e/for%20banner%202%20(1).png" alt="Dan's Banner" width="100%"/>
 </p>
