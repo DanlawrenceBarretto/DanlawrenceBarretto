@@ -53,7 +53,3 @@
 ---
 ✨ *Thanks for visiting my profile! Feel free to connect and collaborate.* 🚀
 ```
-
-This will make your README structured like Jomari’s but still unique to you 🚀
-
-👉 Do you want me to **design social badges (Facebook, LinkedIn, IG)** with your real profile links included?
