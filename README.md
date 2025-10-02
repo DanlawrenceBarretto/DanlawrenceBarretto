@@ -11,8 +11,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180px"/>
 </div>
+
 
 
 <h3>💻 My Languages & Tools</h3>  
