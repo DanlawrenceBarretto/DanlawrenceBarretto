@@ -1,16 +1,3 @@
-Perfect 👍 Thanks for sharing both screenshots and your current README code.
-
-I see you want your **GitHub README** to look more like the **first example (Jomari Castillo’s profile)**, while keeping your own info from the second one. I’ll restructure your README to include:
-
-* ✨ Clean intro section
-* 📊 GitHub Stats & Most Used Languages (side by side like Jomari’s)
-* 🛠 Languages & Tools (icons/badges)
-* 🌐 Connect with Me (social buttons)
-* 📂 Repositories section (optional, if you want to showcase)
-
-Here’s a **revamped README.md** you can copy-paste:
-
-```markdown
 # Hello World, I'm Dan! 👋  
 
 🎓 BSIT student from PUPSTB  
