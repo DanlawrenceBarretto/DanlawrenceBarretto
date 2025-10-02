@@ -14,7 +14,7 @@
 
 ---
 
-## 💻 My Language % Tools  
+## 💻 My Language & Tools  
 
 <div align="center">
 
