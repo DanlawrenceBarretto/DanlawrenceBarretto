@@ -4,13 +4,13 @@
    Aspiring Game Developer • Web Development • Collaborator • AI Enthusiast
 </p>
 
+
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
 </div>
 
----
 
 <h3>💻 My Languages & Tools</h3>  
 
@@ -30,7 +30,8 @@
 
 </div>
 
----
+
+
 
 <h3>🌐 Connect with Me</h3>  
 
@@ -40,6 +41,6 @@
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
----
+
 
 <p align="center">✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀</p>
