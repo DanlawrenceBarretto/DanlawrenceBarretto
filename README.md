@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Dan! 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/dlbarretto/dlbarretto/blob/5e2b54c507521a259588d29743eb12712fdbc5e5/repopicdlb.png" alt="Dan's Banner" width="100%"/>
+  <img src="https://github.com/dlbarretto/dlbarretto/blob/c254a4369416ce9cf01e92ed5fe9d7f0dc4b88df/danrepopic.png" alt="Dan's Banner" width="100%"/>
 </p>
 <p align="center">
    Aspiring Game Developer • Web Development • Collaborator • AI Enthusiast
