@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="font-size:20px;">
-  <b> Game & Web Development • Collaborator • AI Enthusiast </b>
+  <b> I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites. I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skills and knowledge. </b>
 </p>
 
 
