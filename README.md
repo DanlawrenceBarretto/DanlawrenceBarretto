@@ -54,6 +54,6 @@
 ✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀
 </h4>
 <div align="center">
-  <img src="https://github.com/dlbarretto/dlbarretto/blob/3aaa78131218e986e627de735467a470c5cdf46c/FOR%20MY%20LOVE%20(1).gif" height="525px" wdith="1000px"/>
+  <img src="https://github.com/dlbarretto/dlbarretto/blob/b985565f1ff6a9b89d5aa3c1e22e8762bc82d24b/Assets/FOR%20MY%20LOVE%20(1).gif" height="525px" wdith="1000px"/>
 </div>
 
