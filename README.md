@@ -1,5 +1,5 @@
 # Hello World, I'm Dan!👋
- 🌱 I’m BSIT student from PUPSTB<br/>👯 I’m looking for IT community to collaborate with<br/>🤔 I’m currectly learning Multimedia & Web Development<br/>💬 A future game developer<br/>📫 Reach me using email: danlawrencebarretto1@gmail.com<br/>
+ 🌱 BSIT student from PUPSTB<br/>👯 Looking for IT community to collaborate with<br/>🤔 Currectly learning Multimedia & Web Development<br/>💬 A future game developer<br/>📫 Reach me using email: danlawrencebarretto1@gmail.com<br/>
 
  ![](https://github-readme-stats.vercel.app/api?username=dlbarretto&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
