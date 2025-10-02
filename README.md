@@ -4,10 +4,10 @@
   <img src="https://github.com/dlbarretto/dlbarretto/blob/c254a4369416ce9cf01e92ed5fe9d7f0dc4b88df/danrepopic.png" alt="Dan's Banner" width="100%"/>
 </p>
 
-<p align="center" style="font-size:20px;">
-  <b> I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites. I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skills and knowledge. </b>
-</p>
-
+<h3 align="center">
+  I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites.  
+  I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skills and knowledge.
+</h3>
 
 
 <div align="center">
@@ -33,9 +33,7 @@
 </div>
 
 
-
-
----
+<hr style="border: 0.5px solid #ccc;"/>
 
 <h3>🌐 Connect with me</h3>  
 
@@ -50,6 +48,6 @@
 </div>
 
 
----
+<hr style="border: 0.5px solid #ccc;"/>
 
 <p align="center">✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀</p>
