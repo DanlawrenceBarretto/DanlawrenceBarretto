@@ -3,11 +3,10 @@
 <p align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/c254a4369416ce9cf01e92ed5fe9d7f0dc4b88df/danrepopic.png" alt="Dan's Banner" width="100%"/>
 </p>
-
-<h3 align="center">
+<h4 align="center">
   I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites.  
   I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skills and knowledge.
-</h3>
+</h4>
 
 
 <div align="center">
@@ -32,8 +31,7 @@
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  
 </div>
 
-
-<hr style="border: 0.5px solid #ccc;"/>
+<hr style="border: 0.1px solid #ccc;"/>
 
 <h3>🌐 Connect with me</h3>  
 
@@ -48,6 +46,6 @@
 </div>
 
 
-<hr style="border: 0.5px solid #ccc;"/>
+<br><br>
 
 <p align="center">✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀</p>
