@@ -11,7 +11,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180px"/>
+  <img src="https://github.com/dlbarretto/dlbarretto/blob/0d441489254ed967af70d941153306f9c685a864/gifhithub2.gif" height="170px" style="margin-right:50px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180px" style="margin-left:200px;"/>
   <img src="https://github.com/dlbarretto/dlbarretto/blob/d267865e1b661c73745e78db65f0c779c3184389/gifgithub.gif" height="250px"/>
 </div>
 
