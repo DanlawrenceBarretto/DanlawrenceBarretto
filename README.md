@@ -27,10 +27,12 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)  
-
 </div>
 
 
+
+
+---
 
 
 <h3>🌐 Connect with Me</h3>  
@@ -42,5 +44,6 @@
 </div>
 
 
+---
 
 <p align="center">✨ Thanks for visiting my profile! Let’s connect and collaborate 🚀</p>
