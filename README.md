@@ -12,7 +12,7 @@
 
 ---
 
-<h4>💻 My Languages & Tools</h4>  
+<h3>💻 My Languages & Tools</h3>  
 
 <div align="center">
 
@@ -32,7 +32,7 @@
 
 ---
 
-<h4>🌐 Connect with Me</h4>  
+<h3>🌐 Connect with Me</h3>  
 
 <div align="center">
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
