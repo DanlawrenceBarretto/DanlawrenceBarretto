@@ -3,10 +3,10 @@
 <p align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/c254a4369416ce9cf01e92ed5fe9d7f0dc4b88df/danrepopic.png" alt="Dan's Banner" width="100%"/>
 </p>
-<h4 align="center">
+<h3 align="center">
   I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites.  
   I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skills and knowledge.
-</h4>
+</h3>
 
 
 <div align="center">
