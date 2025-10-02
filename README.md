@@ -1,12 +1,12 @@
-<h1 align="center">Hello World, I'm Dan! 👋</h1>
+<h1 align="center"><i>Hello World, I'm Dan! 👋</i></h1>
 
 <p align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/c254a4369416ce9cf01e92ed5fe9d7f0dc4b88df/danrepopic.png" alt="Dan's Banner" width="100%"/>
 </p>
-<p align="center">
-   Aspiring Game Developer • Web Development • Collaborator • AI Enthusiast
-</p>
 
+<p align="center" style="font-size:20px;">
+  <b> Game & Web Development • Collaborator • AI Enthusiast </b>
+</p>
 
 
 
@@ -37,13 +37,16 @@
 
 ---
 
-
-<h3>🌐 Connect with Me</h3>  
+<h3>🌐 Connect with me</h3>  
 
 <div align="center">
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="viber://chat?number=YOUR_NUMBER"><img src="https://img.shields.io/badge/Viber-7360F2?style=for-the-badge&logo=viber&logoColor=white"/></a>
+  <a href="mailto:yourname@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 
