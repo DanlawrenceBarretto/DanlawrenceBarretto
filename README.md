@@ -3,13 +3,12 @@
 <p align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/5e2b54c507521a259588d29743eb12712fdbc5e5/repopicdlb.png" alt="Dan's Banner" width="100%"/>
 </p>
-
 <p align="center">
    Aspiring Game Developer • Web Development • Collaborator • AI Enthusiast
 </p>
 
 
----
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
