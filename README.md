@@ -1,6 +1,6 @@
 <h1 align="center"><i>Hello World, I'm Dan! 👋</i></h1>
 <p align="center">
-  <img src="https://github.com/dlbarretto/dlbarretto/blob/9573fd3950fe852ad7df4133112cfab9feb9e3bf/Assets/gitbackground.png" alt="Dan's Banner" width="100%"/>
+  <img src="https://github.com/dlbarretto/dlbarretto/blob/88c55921b1808df944de4524f583f5bdbd3fe75c/io/dlbarrettobg.gif" alt="Dan's Banner" width="100%"/>
 </p>
 <h4 align="center">
   I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites.  
