@@ -11,7 +11,7 @@
 
 <div align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/217d2140229cf9e69b28f28ba0378dcb02218010/download.gif" height="230px" style="margin-right:50px;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="180px" style="margin-left:20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dlbarretto&show_icons=true&theme=tokyonight" height="180px" style="margin-left:20px;"/>
   <img src="https://github.com/dlbarretto/dlbarretto/blob/d267865e1b661c73745e78db65f0c779c3184389/gifgithub.gif" height="250px"/>
 </div>
 
@@ -56,4 +56,3 @@
 <div align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/b985565f1ff6a9b89d5aa3c1e22e8762bc82d24b/Assets/FOR%20MY%20LOVE%20(1).gif" height="525px" wdith="1000px"/>
 </div>
-
