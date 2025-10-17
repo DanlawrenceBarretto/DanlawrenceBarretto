@@ -1,4 +1,4 @@
-<h1 align="center"><i>Hello World, I'm Dan! 👋</i></h1>
+<h1 align="center"><i>Hello World, I'm Dan! 🐰</i></h1>
 <p align="center">
   <img src="https://github.com/dlbarretto/dlbarretto/blob/c57c88fbd3ed70825f1aff147c200ade93e23fce/io/dlbarrettobg.gif" alt="Dan's Banner" width="100%"/>
 </p>
