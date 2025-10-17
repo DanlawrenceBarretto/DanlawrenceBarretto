@@ -4,7 +4,7 @@
 </p>
 <h4 align="center">
   I’ve always been into writing and playing instruments but destiny brought me here to share my insights on the creative process of making games and websites.  
-  I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skillsets and knowledge.
+  I simply love what I do, one includes exploring and utilizing AI. Everything has a price so here I am trying to earn from my skillsets and intellect.
 </h4>
 
 <br>
